@@ -10,7 +10,7 @@ npm i
 npm run build
 npm run start
 
-On postman: hit the api:
+On postman:
 http://localhost:8080/
 
 Check the routes for more details.
